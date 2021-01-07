@@ -1,1 +1,2 @@
-Alice's hobbies are teaching people Git, and long walks on the beach. 
+Alice's hobbies are teaching people Git, and long walks on the beach.
+Sam's hobbies are swimming, and walking. 
