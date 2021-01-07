@@ -1,1 +1,2 @@
 Alice's job is a Git expert.
+Brenda's job is a software engineer. 
