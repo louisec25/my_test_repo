@@ -1,2 +1,1 @@
-Louise's hobbies are golf and baking.
-
+Alice's hobbies are teaching people Git, and long walks on the beach. 
